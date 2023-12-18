@@ -19,7 +19,7 @@ Before using this script, make sure you have Python installed on your system. Yo
    ```
 2. **Clone the Repository** (Optional): If the script is hosted in a repository, you can clone it using:
    ```
-   git clone [repository-url]
+   git clone https://github.com/hosir-web3/EVM_inscription.git
    ```
 
 ## Setup
