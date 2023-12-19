@@ -37,6 +37,11 @@ Before using this script, make sure you have Python installed on your system. Yo
    python evm_inscription.py
    ```
 
+## Useful Link
+- More public RPC link can be found at [ChainList](https://chainlist.org/).
+- A tool to convert data to hex data at [Ethscriber](https://ethscriber.xyz/).
+- Inscription monitor at [EVM.ink](https://evm.ink/).
+
 ## Important Notes
 - Always ensure that your private key is stored securely and never exposed in the script or its logs.
 - Be aware of the gas fees and network conditions of the blockchain you are interacting with to avoid unexpected costs.
